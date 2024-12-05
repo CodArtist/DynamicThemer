@@ -16,7 +16,12 @@
    - `DynamicGradientBackground`
 
 ---
-![alt text](https://github.com/CodArtist/DynamicThemer/blob/main/exampleApp.mp4?raw=true)
+
+## Example App (Clock)
+
+https://github.com/user-attachments/assets/9e594a0b-734b-424b-ab99-167651222c23
+
+---
 
 ## Usage
 
