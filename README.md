@@ -1,4 +1,6 @@
-# Dynamic Themer (https://pub.dev/packages/dynamic_themer)
+# Dynamic Themer
+(https://pub.dev/packages/dynamic_themer)
+
 ![alt text](https://github.com/CodArtist/DynamicThemer/blob/main/InShot_20241205_150913090.gif?raw=true)
 
 **DynamicThemer** is a Flutter package that enables real-time dynamic theming in your Flutter apps. With features like theme switching based on user actions, time of day, or system preferences, it provides developers with an intuitive way to create engaging and visually appealing apps.
