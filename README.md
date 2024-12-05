@@ -19,7 +19,9 @@
 
 ## Example App (Clock)
 
-                                                   https://github.com/user-attachments/assets/9e594a0b-734b-424b-ab99-167651222c23
+<div align="center">
+  <video src=" https://github.com/user-attachments/assets/9e594a0b-734b-424b-ab99-167651222c23" width="400" />
+</div>                                                  
 
 ---
 
