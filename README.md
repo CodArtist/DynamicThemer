@@ -178,7 +178,7 @@ To use the **DynamicThemer** package locally in your example project, follow the
    │   ├── pubspec.yaml
    ```
 3. **Run flutter pub get**:
-   In the main directory run:
+   In the main directory:
    ```bash
    cd DynamicThemer
    flutter pub get
