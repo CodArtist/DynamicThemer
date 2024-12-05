@@ -1,4 +1,4 @@
-import 'package:dynamic_theme/dynamic_themer.dart';
+import 'package:dynamic_themer/dynamic_themer.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'dart:async';

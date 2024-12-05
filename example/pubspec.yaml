@@ -32,7 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
     
-  dynamic_theme:
+  dynamic_themer:
     path: ../
 
 

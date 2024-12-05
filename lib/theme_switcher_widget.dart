@@ -1,4 +1,4 @@
-import 'package:dynamic_theme/theme_models.dart';
+import 'package:dynamic_themer/theme_models.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'dynamic_theme_provider.dart';
