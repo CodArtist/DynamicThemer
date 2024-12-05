@@ -16,6 +16,7 @@
    - `DynamicGradientBackground`
 
 ---
+![alt text](https://github.com/CodArtist/DynamicThemer/blob/main/exampleApp.mp4?raw=true)
 
 ## Usage
 
