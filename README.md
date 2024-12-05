@@ -164,7 +164,7 @@ To use the **DynamicThemer** package locally in your example project, follow the
 2. **Set Up the Example Project (this comes with an example project)**:
    The folder structure should look like this:
    ```
-   dynamic_themer/
+   DynamicThemer/
    ├── lib/
    │   ├── dynamic_theme_provider.dart
    │   ├── theme_models.dart
@@ -180,6 +180,7 @@ To use the **DynamicThemer** package locally in your example project, follow the
 3. **Run flutter pub get**:
    In the main directory run:
    ```bash
+   cd DynamicThemer
    flutter pub get
    ```
    
